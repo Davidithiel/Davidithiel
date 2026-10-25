@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Davidithiel
-- 👀 I’m interested in Computerbl Engineering
+- 👀 I’m interested in Computer Engineering
 - 🌱 I’m good at Frontend Web Development
  
 - 📫 How to reach me davidsondivine97@gmail.com
