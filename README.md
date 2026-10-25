@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Davidithiel
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Frontend Web Development
+- 👀 I’m interested in Computerbl Engineering
+- 🌱 I’m good at Frontend Web Development
  
 - 📫 How to reach me davidsondivine97@gmail.com
+
+- ☎️ 08068551128
+- 📱 08068551128 (WhatsApp)
 
 <!---
 Davidithiel/Davidithiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
